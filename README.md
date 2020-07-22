@@ -11,5 +11,5 @@
 2. [video expires on sunday](https://transcripts.gotomeeting.com/#/s/00d1af32ef2ed619f78dc3baf183e01073e5824ca8e1ebd755ea2ea7f0508453)
 
 ### Day-3
-1.[Notebook]()
-2.[Record Video]()
+1.[Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB1/blob/master/Day-3/22-07-2020MorningBatch.ipynb)<br>
+2.[Record Video](https://transcripts.gotomeeting.com/#/s/524cb53b5533fdd26e1e76d7d1940b981a6016a0fddc330e9ae7ad3840ff4ed3)
