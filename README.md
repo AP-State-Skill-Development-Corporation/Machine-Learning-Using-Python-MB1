@@ -18,7 +18,7 @@
 
 ### Day-4
 1. [Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB1/blob/master/Day-4/Day4-ML.ipynb)
-2. [video expires on 26th July sunday]()
+2. [video expires on 26th July sunday](https://transcripts.gotomeeting.com/#/s/09b5a778670f5ec208203f2e8fc22840777def9176272ed1c7b4a1a34072c440)
 
 ### Day-5
 1. [Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB1/blob/master/Day5/24-07-2020.ipynb)
