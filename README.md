@@ -21,5 +21,5 @@
 2. [video expires on 26th July sunday]()
 
 ### Day-5
-1. [Notebook]
+1. [Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB1/blob/master/Day5/24-07-2020.ipynb)
 2. [video expires on 26th July sunday](https://transcripts.gotomeeting.com/#/s/339ac6b19c19e8d7f94219f415c019c3bd76e4fe00a031a98227293a10bdaf40)
