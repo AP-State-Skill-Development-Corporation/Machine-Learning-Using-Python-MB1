@@ -26,4 +26,4 @@
 
 ### Day-6
 1. [Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-MB1/blob/master/Day-6/06_Day6.ipynb)
-2. [video need to update]()
+2. [video autoexpires](https://transcripts.gotomeeting.com/#/s/86c17c5edd603960f006ff7c771e0443aebaeb075fbc4b1adc73bd4eb2dc9345)
