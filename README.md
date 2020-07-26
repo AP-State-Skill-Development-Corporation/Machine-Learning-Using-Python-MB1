@@ -1,6 +1,5 @@
 # Machine-Learning-Using-Python from 20July to 25July
-
-### Verify all details before on 24july2020 for certificates[Gsheet](https://docs.google.com/spreadsheets/d/19ok6ebcATcuHKRG7Jgm3l_2x-d1XBjATWE7tBdnmCDs/edit?usp=sharing) 
+ 
 
 ### Day-1
 1. [Notebook](https://github.com/AP-State-Skill-Development-Corporation/Machine-Learning-Using-Python-AB1/blob/master/Day-1/01_Day1.ipynb)
